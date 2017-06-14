@@ -1,0 +1,65 @@
+
+body{
+	font-family: "Arial Narrow";
+	margin-left: 20px;
+}
+
+img.uno	{
+	float: left;
+}
+img.dos{
+	position: absolute;
+  	top:  225px; 
+  	left: 700px;
+
+  	border-left: 
+}
+
+h1{
+	letter-spacing: -2px;
+	font-style: italic;
+	text-indent: 20px
+}
+
+.capitalize{	
+	font-style: italic;
+	font-weight: bold;
+	text-transform: capitalize;
+	text-indent: 20px;
+	font-size: 120%; 
+}
+
+.normal{	
+	text-indent: 20px;
+}
+
+p{
+	font-weight: bold;
+    text-transform: uppercase;
+}
+
+.margen{	
+	 margin-top: 100px;
+}
+.margendos{
+	margin-top: 50px;
+}
+
+.posiciontext{
+	margin-right: 1000px;	
+}
+
+.linea {
+  content: '';
+  width: 0;
+  height: 60%;
+  position: absolute;
+  border: 1px solid gray;
+  right: 1000px;
+}
+
+    
+
+
+
+
